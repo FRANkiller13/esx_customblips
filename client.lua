@@ -1,9 +1,9 @@
-------
+----------------------------------------------------------
 --» Custom Blips
 --» By FRANkiller13
 --» Do not remove credits !!
 --» Blips: https://wiki.gtanet.work/index.php?title=Blips
-------
+----------------------------------------------------------
 
 ESX                             = nil
 local Blips = {
